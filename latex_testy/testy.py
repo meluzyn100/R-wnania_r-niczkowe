@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 plt.plot(((0,0),(2,2)))
 plt.plot(((0,2),(2,0)),color="black")
-plt.xlabel("P",fontsize=15)
+plt.xlabel("Cena",fontsize=15)
 plt.ylabel("Ilość towaru  ",fontsize=15)
 plt.tick_params(labelbottom=False)
 plt.tick_params(labelleft=False)
