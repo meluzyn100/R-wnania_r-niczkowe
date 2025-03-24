@@ -1,0 +1,10 @@
+# Pliki tymczasowe systemowe
+*.swp
+*.tmp
+*.bak
+*.DS_Store
+
+# Pliki wirtualnych środowisk Python
+venv/
+__pycache__/
+*.pyc
